@@ -1,6 +1,6 @@
 # janalytics-react-native
 
-##更新SDK到1.2.1
+## 更新SDK到1.2.1
 
 ## Install
 
