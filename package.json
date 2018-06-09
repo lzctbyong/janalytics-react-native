@@ -1,6 +1,6 @@
 {
   "name": "janalytics-react-native",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -16,7 +16,7 @@
   "keywords": [
     "janalytics"
   ],
-  "author": "KenChoi, HuminiOS",
+  "author": "lzctbyong",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jpush/janalytics-react-native/issues"
