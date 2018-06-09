@@ -24,10 +24,6 @@ public class JAnalyticsPackage implements ReactPackage {
         });
     }
 
-    // @Override fix react native 0.47 issue
-    public List<Class<? extends JavaScriptModule>> createJSModules() {
-        return Collections.emptyList();
-    }
 
     @Override
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
