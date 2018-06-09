@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpush/janalytics-react-native.git"
+    "url": "git+https://github.com/lzctbyong/janalytics-react-native.git"
   },
   "keywords": [
     "janalytics"
@@ -19,9 +19,9 @@
   "author": "lzctbyong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jpush/janalytics-react-native/issues"
+    "url": "https://github.com/lzctbyong/janalytics-react-native/issues"
   },
-  "homepage": "https://github.com/jpush/janalytics-react-native#readme",
+  "homepage": "https://github.com/lzctbyong/janalytics-react-native#readme",
   "peerDependencies": {
     "jcore-react-native": ">= 1.2.4"
   },
